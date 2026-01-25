@@ -1,0 +1,10 @@
+{
+    "id": "bookmark-cards",
+    "name": "Bookmark Cards",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Visual bookmark manager with drag-and-drop support.",
+    "author": "Jynoke",
+    "authorUrl": "https://github.com/Cavan-leo/jynoke-obsidian-plugins",
+    "isDesktopOnly": false
+}
