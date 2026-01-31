@@ -1,0 +1,287 @@
+/* Bookmark Tree Styles (v1.4) */
+
+.clean-cards-view {
+    padding: 0px 16px;
+    /* Reduced top padding */
+    height: 100%;
+    overflow-y: auto;
+    font-family: var(--font-interface);
+}
+
+.clean-cards-actions {
+    margin-top: 12px;
+    margin-bottom: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* Ensure vertical alignment */
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.view-actions-group {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.action-btn {
+    background-color: var(--interactive-normal) !important;
+    border: 1px solid var(--background-modifier-border-hover) !important;
+    cursor: pointer;
+    /* Square padding for icon-only buttons */
+    padding: 6px !important;
+    width: 32px !important;
+    /* Fixed square size */
+    height: 32px !important;
+    border-radius: 6px !important;
+    color: var(--text-muted) !important;
+    transition: all 0.2s ease-in-out;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    font-size: 0.9em !important;
+    line-height: normal !important;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.action-btn:hover,
+.action-btn.is-active {
+    background-color: var(--interactive-accent);
+    color: var(--text-on-accent);
+    border-color: var(--interactive-accent);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* Lift effect */
+}
+
+.action-btn svg {
+    width: 16px;
+    /* Ensure icon size consistency */
+    height: 16px;
+    opacity: 0.8;
+}
+
+.action-btn:hover svg,
+.action-btn.is-active svg {
+    opacity: 1;
+    stroke: currentColor;
+}
+
+.btn-label {
+    /* Ensure label is visible */
+    white-space: nowrap;
+}
+
+/* Category Container */
+.category-section {
+    margin-bottom: 2px;
+}
+
+/* --- LIST VIEW STYLES --- */
+/* Main Content Container */
+.cards-content-container {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    /* Ensure vertical stacking */
+    gap: 4px;
+}
+
+/* --- LIST VIEW STYLES --- */
+
+/* Tree Item Container */
+.tree-item {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+/* Category & Folder Headers */
+.tree-item-header {
+    display: flex;
+    align-items: center;
+    padding: 6px 8px;
+    /* Slightly more padding */
+    font-size: 0.95rem;
+    /* Slightly larger */
+    color: var(--text-normal);
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background 0.1s;
+    user-select: none;
+    width: 100%;
+    /* Full width */
+}
+
+.tree-item-header:hover {
+    background-color: var(--background-modifier-hover);
+}
+
+/* Icons */
+.tree-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    /* Fixed width for alignment */
+    height: 20px;
+    margin-right: 6px;
+    color: var(--text-muted);
+}
+
+.tree-icon svg {
+    width: 16px;
+    height: 16px;
+}
+
+/* Items List Container (Children) */
+.tree-item-children {
+    padding-left: 24px;
+    /* Clear indentation */
+    display: flex;
+    flex-direction: column;
+    border-left: 1px solid var(--background-modifier-border);
+    /* Visible guide line */
+    margin-left: 9px;
+    /* Align guide line with parent icon center */
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.tree-item-children.collapsed {
+    display: none;
+}
+
+/* Bookmark Link Item */
+.bookmark-link {
+    display: flex;
+    align-items: center;
+    padding: 4px 8px;
+    border-radius: 4px;
+    text-decoration: none !important;
+    color: var(--text-normal) !important;
+    font-size: 0.9rem;
+    transition: background 0.1s;
+    width: 100%;
+    /* Full width */
+}
+
+.bookmark-link:hover {
+    background-color: var(--interactive-accent-hover);
+    color: white !important;
+}
+
+.theme-dark .bookmark-link:hover {
+    background-color: var(--background-modifier-hover);
+    color: var(--text-normal) !important;
+}
+
+/* Specific styling for folders vs links */
+.is-folder {
+    font-weight: 600;
+}
+
+.is-link {
+    font-weight: 400;
+}
+
+/* --- GRID VIEW STYLES --- */
+
+.bookmarks-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    /* Increased min-width */
+    gap: 20px;
+    /* Increased gap */
+    padding: 8px 0;
+}
+
+.grid-card {
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: var(--background-primary);
+    transition: transform 0.2s, box-shadow 0.2s;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    min-height: 260px;
+}
+
+.grid-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-color: var(--interactive-accent);
+}
+
+.card-cover {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background-color: var(--background-secondary);
+    position: relative;
+    border-bottom: 1px solid var(--background-modifier-border);
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card-cover.no-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-faint);
+    font-size: 2rem;
+}
+
+.card-info {
+    padding: 12px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-title {
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin-bottom: 4px;
+    color: var(--text-normal);
+    /* Multi-line truncating */
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.card-desc {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    line-height: 1.4;
+    /* Multi-line truncating */
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* Category headers in Grid View */
+.grid-category-header {
+    grid-column: 1 / -1;
+    /* Span full width */
+    margin-top: 16px;
+    margin-bottom: 8px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: var(--text-normal);
+    border-bottom: 2px solid var(--background-modifier-border);
+    padding-bottom: 4px;
+}
