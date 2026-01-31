@@ -18,7 +18,7 @@ Thumbs.db
 
 # Plugin Data & Builds
 data.json
-
+*.zip
 node_modules/
 dist/
 releases/
