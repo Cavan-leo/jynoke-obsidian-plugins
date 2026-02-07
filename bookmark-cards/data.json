@@ -1,0 +1,208 @@
+{
+  "metadata": {
+    "https://cursor.directory/mcp/puppeteer": {
+      "title": "Cursor Directory",
+      "description": "Find the best cursor rules for your framework and language",
+      "image": "https://pub-abe1cd4008f5412abb77357f87d7d7bb.r2.dev/opengraph-image-v2.png"
+    },
+    "https://cursor.directory/mcp/obsidian": {
+      "title": "Cursor Directory",
+      "description": "Find the best cursor rules for your framework and language",
+      "image": "https://pub-abe1cd4008f5412abb77357f87d7d7bb.r2.dev/opengraph-image-v2.png"
+    },
+    "https://cursor.directory/mcp/figma": {
+      "title": "Cursor Directory",
+      "description": "Find the best cursor rules for your framework and language",
+      "image": "https://pub-abe1cd4008f5412abb77357f87d7d7bb.r2.dev/opengraph-image-v2.png"
+    },
+    "https://eonova.me": {
+      "title": "Eonova's Space",
+      "description": "Eonova • Full Stack Developer",
+      "image": "https://eonova.me/og/image.webp"
+    },
+    "https://news.ycombinator.com/": {
+      "title": "Hacker News",
+      "description": "",
+      "image": ""
+    },
+    "https://skillsmp.com/": {
+      "title": "Agent Skills Marketplace - Claude, Codex & ChatGPT Skills | SkillsMP",
+      "description": "Browse 80000+ agent skills compatible with Claude Code, Codex CLI and ChatGPT. The open standard SKILL.md format for AI coding assistants.",
+      "image": "https://skillsmp.com/og-image.png"
+    },
+    "https://cursor.directory/mcp/mcp-server-chart": {
+      "title": "Cursor Directory",
+      "description": "Find the best cursor rules for your framework and language",
+      "image": "https://pub-abe1cd4008f5412abb77357f87d7d7bb.r2.dev/opengraph-image-v2.png"
+    },
+    "https://cursor.directory/mcp/browser-mcp": {
+      "title": "Cursor Directory",
+      "description": "Find the best cursor rules for your framework and language",
+      "image": "https://pub-abe1cd4008f5412abb77357f87d7d7bb.r2.dev/opengraph-image-v2.png"
+    },
+    "https://ricoui.com": {
+      "title": "Web Designer 网页设计师 Ricoui 的个人网站",
+      "description": "我是网页设计师Rico，这是我的个人网站ricoui，我享受设计和编程，正在围绕设计领域开发个人产品，期待关注。",
+      "image": "https://ricoui.com/og.png"
+    },
+    "https://polar-bear.eu.org/": {
+      "title": "polar-bear～Blog",
+      "description": "技术宅拯救世界~~!",
+      "image": "https://polar-bear.eu.org/img/hand.jpg"
+    },
+    "https://zeli.app/zh": {
+      "title": "Zeli - 用中文阅读Hacker News和AI论文摘要",
+      "description": "Zeli提供了Hacker News和HuggingFace每日AI论文的中文版，实时翻译并生成摘要，旨在帮你快速挑选感兴趣的文章来读。",
+      "image": "https://zeli.app/favicon.png"
+    },
+    "https://www.gequbao.com/": {
+      "title": "歌曲宝-找歌就用歌曲宝-MP3音乐高品质在线免费下载",
+      "description": "歌曲宝在线音乐搜索，可以在线免费下载MP3歌曲、流行音乐、经典老歌等。曲库完整，更新迅速，试听流畅，支持高品质|无损音质~",
+      "image": ""
+    },
+    "https://wicos.me": {
+      "title": "Wicos's Blog.",
+      "description": "",
+      "image": ""
+    },
+    "https://baimoqilin.com": {
+      "title": "I'm BaimoQilin",
+      "description": "Personal introduction page of BaimoQilin",
+      "image": ""
+    },
+    "https://app.tapnow.top/#/pricing": {
+      "title": "TapNow｜AI Visual Creation Engine for Ads, Films & Creative Storytelling",
+      "description": "TapNow is the next-generation AI visual creation engine for businesses and creators. From e-commerce ads to cinematic short films and experimental art, TapNow empowers anyone to create professional-grade visuals with AI. Join TapTV, our creator community, to share your process, showcase projects, and inspire the future of AI-driven creativity.",
+      "image": "https://fe-assets.tapnow.top/415738849e3060b7241bdceeedd49985557d02fe/tap_logo.webp"
+    },
+    "https://github.com/kimtaeyoon83/mcp-server-youtube-transcript": {
+      "title": "GitHub - kimtaeyoon83/mcp-server-youtube-transcript: This is an MCP server that allows you to directly download transcripts of YouTube videos.",
+      "description": "This is an MCP server that allows you to directly download transcripts of YouTube videos. - kimtaeyoon83/mcp-server-youtube-transcript",
+      "image": "https://opengraph.githubassets.com/ca0cb8f7473a4128357154d7761b947f190264a9d2f26060163aac42655d3b4c/kimtaeyoon83/mcp-server-youtube-transcript"
+    },
+    "https://www.newsnow.co.uk/h/": {
+      "title": "NewsNow: The Independent News Discovery Platform",
+      "description": "Read the latest news from thousands of sources on NewsNow, the independent news discovery platform. Breaking news, analysis and opinion, updated every five minutes.",
+      "image": ""
+    },
+    "https://github.com/OthmanAdi/planning-with-files": {
+      "title": "GitHub - OthmanAdi/planning-with-files: Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.",
+      "description": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. - OthmanAdi/planning-with-files",
+      "image": "https://opengraph.githubassets.com/06e21d15090c4ebb392b2b85b4e9705573c599d89fb2f9db3f8321f897b629a4/OthmanAdi/planning-with-files"
+    },
+    "https://github.com/farion1231/cc-switch": {
+      "title": "GitHub - farion1231/cc-switch: A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
+      "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI. - farion1231/cc-switch",
+      "image": "https://opengraph.githubassets.com/e3ed92c3eefc4defaad36888baa273457413fb023f9e2e90c6ee2e36576119c1/farion1231/cc-switch"
+    },
+    "https://github.com/ComposioHQ/awesome-claude-skills": {
+      "title": "GitHub - ComposioHQ/awesome-claude-skills: A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows - ComposioHQ/awesome-claude-skills",
+      "image": "https://opengraph.githubassets.com/a76eb8aed664b6fae7b57bd8a650b1dd8ce034862b068645f63b2168f6c1a904/ComposioHQ/awesome-claude-skills"
+    },
+    "https://github.com/chatfire-AI/huobao-drama": {
+      "title": "GitHub - chatfire-AI/huobao-drama: 🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator \"One Sentence to Complete Drama: Fully Automated from Script to Final Video\"",
+      "description": "🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator &quot;One Sentence to Complete Drama: Fully Automated from Script to Final Video&quot; ...",
+      "image": "https://opengraph.githubassets.com/9b87ef10ecaaeef129384526cc7748a21482804b04fdad708a80bb6ac0ed6017/chatfire-AI/huobao-drama"
+    },
+    "https://www.stepfun.com/download": {
+      "title": "阶跃AI",
+      "description": "阶跃AI是一个聪明可靠的个人效率助手，可以帮你获取知识、查询信息、学习语言、创意写作、编写代码，在工作、学习、生活等各种场景下帮你解决问题。带你发现和理解世界~",
+      "image": "https://www.stepfun.com/img/opengraph-image.png"
+    },
+    "https://github.com/OpenBMB/VoxCPM": {
+      "title": "GitHub - OpenBMB/VoxCPM: VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning",
+      "description": "VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning - OpenBMB/VoxCPM",
+      "image": "https://opengraph.githubassets.com/4d3f4c4fc1f0a215d22709ae6e1c67ea007936ba7f704a28db945f793868e167/OpenBMB/VoxCPM"
+    },
+    "https://jason-effi-lab.notion.site/": {
+      "title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.",
+      "description": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
+      "image": "https://www.notion.so/images/meta/default.png"
+    },
+    "https://github.com/anthropics/skills": {
+      "title": "GitHub - anthropics/skills: Public repository for Agent Skills",
+      "description": "Public repository for Agent Skills. Contribute to anthropics/skills development by creating an account on GitHub.",
+      "image": "https://opengraph.githubassets.com/a76eb8aed664b6fae7b57bd8a650b1dd8ce034862b068645f63b2168f6c1a904/anthropics/skills"
+    },
+    "https://github.com/obra/superpowers": {
+      "title": "GitHub - obra/superpowers: An agentic skills framework & software development methodology that works.",
+      "description": "An agentic skills framework & software development methodology that works. - obra/superpowers",
+      "image": "https://opengraph.githubassets.com/fa1222fd114abfde617f12f1da1226228660692c09a38a254ec139bdcb12bb38/obra/superpowers"
+    },
+    "https://github.com/BloopAI/vibe-kanban": {
+      "title": "GitHub - BloopAI/vibe-kanban: Get 10X more out of Claude Code, Codex or any coding agent",
+      "description": "Get 10X more out of Claude Code, Codex or any coding agent - BloopAI/vibe-kanban",
+      "image": "https://opengraph.githubassets.com/77d8933d05ab6795872507bc6cd8147736283a468c00cfe660f370fa8b95f619/BloopAI/vibe-kanban"
+    },
+    "https://github.com/PleasePrompto/notebooklm-skill": {
+      "title": "GitHub - PleasePrompto/notebooklm-skill: Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features browser automation, library management, persistent authentication, and answers exclusively from your own knowledge base.",
+      "description": "Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Featu...",
+      "image": "https://opengraph.githubassets.com/3cccae6f660b2a973f5d7cde8b378914f22c1f7075248e6554bf538c48df2d60/PleasePrompto/notebooklm-skill"
+    },
+    "https://tool.chinaz.com/port": {
+      "title": "端口扫描 - 站长工具",
+      "description": "通过该工具可以扫描常用的端口和指定的端口是否开放。",
+      "image": ""
+    },
+    "https://github.com/punkpeye/awesome-mcp-servers?tab=readme-ov-file": {
+      "title": "GitHub - punkpeye/awesome-mcp-servers: A collection of MCP servers.",
+      "description": "A collection of MCP servers. Contribute to punkpeye/awesome-mcp-servers development by creating an account on GitHub.",
+      "image": "https://opengraph.githubassets.com/5361b8a3a6c5b451ef65e1f36941b2b9ea9a26c8da5d0fecae961504123eca28/punkpeye/awesome-mcp-servers"
+    },
+    "https://Medusa.love": {
+      "title": "Noomo Labs",
+      "description": "Noomo Labs - a place for cutting-edge immersive experiences, 3D websites, AR activations, and interactive web experiences.",
+      "image": "//cdn.pet/medusa/OpenGraph.jpg"
+    },
+    "https://Usdt.ooo": {
+      "title": "Home",
+      "description": "Sss.ss.",
+      "image": "https://hatom-cms-prod-medias.ams3.digitaloceanspaces.com/meta_01abee796c.jpg"
+    },
+    "https://www.azx.us/welfare": {
+      "title": "🎁 公益福利-昔尘源分享",
+      "description": "🎁 公益福利-昔尘源分享",
+      "image": ""
+    },
+    "https://one.google.com/ai-student?utm_source=gemini&utm_medium=organic_social&utm_campaign=students_owned_global-shortlink&g1_landing_page=75": {
+      "title": "登录 - Google 账号",
+      "description": "",
+      "image": ""
+    },
+    "https://policies.google.com/country-association-form": {
+      "title": "登录 - Google 账号",
+      "description": "",
+      "image": ""
+    },
+    "https://linjhs.top": {
+      "title": "LinJHS个人小站",
+      "description": "LinJHS 个人小站 | 专注网络安全前沿科研工作，深耕协议安全领域，涵盖网络协议安全分析、科研方法论总结、开源项目研发实践，助力安全科研与技术人群提升专业能力！",
+      "image": "/upload/logo.webp"
+    },
+    "https://console.cloud.tencent.com/lighthouse": {
+      "title": "登录 - 腾讯云",
+      "description": "腾讯云为数百万的企业和开发者提供安全、稳定的云服务器、云主机、CDN、对象存储、域名注册、云存储、云数据库等云服务，帮助用户解决游戏、视频、移动、微信、互联网+等行业的架构难题，是全球领先的云计算服务商。",
+      "image": ""
+    },
+    "http://jynoke.cn:15555/home)": {
+      "title": "安全入口校验失败",
+      "description": "",
+      "image": ""
+    },
+    "http://jynoke.cn:15555/home": {
+      "title": "安全入口校验失败",
+      "description": "",
+      "image": ""
+    },
+    "https://www.baidu.com/": {
+      "title": "百度一下，你就知道",
+      "description": "全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。",
+      "image": ""
+    }
+  },
+  "defaultImage": "data:image/svg+xml;charset=utf-8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"800\" height=\"400\" viewBox=\"0 0 800 400\"><defs><linearGradient id=\"g\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" style=\"stop-color:%232d333b;stop-opacity:1\" /><stop offset=\"100%\" style=\"stop-color:%231e2329;stop-opacity:1\" /></linearGradient></defs><rect width=\"100%\" height=\"100%\" fill=\"url(%23g)\"/><text x=\"50%\" y=\"45%\" font-family=\"sans-serif\" font-weight=\"bold\" font-size=\"48\" fill=\"%23adbac7\" text-anchor=\"middle\">Obsidian</text><text x=\"50%\" y=\"60%\" font-family=\"sans-serif\" font-size=\"24\" fill=\"%23768390\" text-anchor=\"middle\">Bookmark Card</text></svg>",
+  "enableList": true,
+  "enableGrid": true,
+  "bookmarkFilePath": "搭建框架/00_Index/收藏夹/收藏夹.md"
+}

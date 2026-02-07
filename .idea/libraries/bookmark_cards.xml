@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bookmark-cards">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bookmark-cards.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
