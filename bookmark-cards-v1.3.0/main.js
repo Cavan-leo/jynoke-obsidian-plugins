@@ -1170,6 +1170,12 @@ class BookmarkCardsPlugin extends Plugin {
             this.activateView();
         });
 
+        this.addCommand({
+            id: 'open-bookmark-cards',
+            name: '打开收藏夹',
+            callback: () => this.activateView()
+        });
+
         this.registerView(
             VIEW_TYPE_BOOKMARK_CARDS,
             (leaf) => new BookmarkCardsView(leaf, this)
